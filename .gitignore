@@ -2,5 +2,7 @@
 bin/
 lib/
 
-thirdparty/
+thirdparty/bytecodealliance
+thirdparty/wasm3
+
 web/node_modules/
