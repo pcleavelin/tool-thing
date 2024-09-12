@@ -1,0 +1,13 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

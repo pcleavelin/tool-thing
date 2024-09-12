@@ -1,0 +1,6 @@
+**/.DS_Store
+bin/
+lib/
+
+thirdparty/
+web/node_modules/
